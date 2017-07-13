@@ -1,5 +1,3 @@
-# [Tutorial here!](http://truffleframework.com/tutorials/creating-a-cli-with-truffle-3)
-
 ## In order to build and run the library *LOCALLY*, run
 1. `yarn install` or `npm install` depending on your preference
 2. make sure you have testrpc running , and change `truffle.js` to point to that network. e.g. `localhost:8545`.
